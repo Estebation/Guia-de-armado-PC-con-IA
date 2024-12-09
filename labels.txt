@@ -1,0 +1,11 @@
+0 Fuente
+1 Cooler
+2 Procesador
+3 Placa madre
+4 Tarjeta grafica
+5 Tarjeta de audio
+6 Memoria RAM
+7 Disco Duro
+8 Puertos USB
+9 Unidad óptica
+10 Gabinete
